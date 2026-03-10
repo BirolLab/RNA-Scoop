@@ -16,7 +16,7 @@
                 <Insets top="5" bottom="15"/>
             </VBox.margin>
         </ImageView>
-        <Text text="https://github.com/bcgsc/RNA-Scoop"/>
+        <Text text="https://github.com/BirolLab/RNA-Scoop"/>
         <Line startX="100" endX="350">
             <VBox.margin>
                 <Insets top="15" bottom="15"/>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/bcgsc/RNA-Scoop/blob/master/src/wiki/images/RNA-Scoop_logo_small.png?raw=true"/>
+  <img src="https://github.com/BirolLab/RNA-Scoop/blob/master/src/wiki/images/RNA-Scoop_logo_small.png?raw=true"/>
 </p>
 
 **RNA Scoop** is a tool to visualize isoforms in single cell transcriptomes. Through use of an interactive cell cluster plot,
@@ -43,7 +43,7 @@ conda deactivate
 
 ## Installation :wrench:
 
-1. Download the binary tarball `rnascoop_vX.X.X.tar.gz` from the [releases](https://github.com/bcgsc/RNA-Scoop/releases) section
+1. Download the binary tarball `rnascoop_vX.X.X.tar.gz` from the [releases](https://github.com/BirolLab/RNA-Scoop/releases) section
 2. Extract the downloaded tarball with the command:
 ```
 tar -zxf rnascoop_vX.X.X.tar.gz
@@ -55,7 +55,7 @@ java -jar /path/to/RNA-Scoop.jar ...
 
 ## Tutorial :mag:
 
-Consult our [wiki pages](https://github.com/bcgsc/RNA-Scoop/wiki) for an introduction to highlight features in RNA-Scoop.
+Consult our [wiki pages](https://github.com/BirolLab/RNA-Scoop/wiki) for an introduction to highlight features in RNA-Scoop.
 
 Watch Maria's 8-minute conference talk at the BioVis COSI at ISMB 2020.
 
